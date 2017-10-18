@@ -1,0 +1,59 @@
+html{
+	background-color: #5F9EA0;
+}
+
+.buttonStyle,
+#search,
+img{
+	margin: 5px;
+}
+
+#gifs{
+	display: block;
+}
+
+#gifs div{
+	display: inline-block;
+}
+
+.rating{
+	display: block;
+	text-align: center;
+}
+
+img:hover,
+.buttonStyle:hover,
+#search{
+	cursor: pointer;
+}
+
+img{
+	border: solid;
+	border-width: 2px;
+	border-color: #5F9EA0;
+}
+
+img:hover{
+	border-width: 2px;
+	border-color: red;
+}
+
+input,
+#search{
+	display: inline-block;
+}
+
+h1{
+	font-size: 200%;
+	text-align: center;
+	margin: 10px;
+}
+
+form{
+	text-align: center;
+	margin: 5px;
+}
+
+body{
+	margin: 10px;
+}
